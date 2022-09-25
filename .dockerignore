@@ -1,0 +1,7 @@
+.git/
+Makefile
+terraform/
+chrome-linux-*.zip
+chrome-linux-*/
+!chrome-linux-*.tar.gz
+README.md
